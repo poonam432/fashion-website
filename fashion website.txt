@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">   
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width , initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Poonam fashion.com</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Rubik:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bowlby+One&family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="header">
+        <div class="left">
+            <img src="creative-fashion-logo-design-sign-with-lettering-vector-24176934.jpg" alt="">
+            <!-- <div> Poonam fashion.com</div> -->
+        </div>
+        <div class="mid">
+            <ul class="navbar">
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Pages</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+         <div class="Right">
+            <button class="btn">Shop Now</button>
+            <button class="btn">Email us</button>
+            <input  placeholder="Search product or brand..." name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </div>
+       
+    </header>
+    <div class="image"  >
+    <img src="pexels-athena-2043590.jpg" width="800" height="800"></div>
+    <div class="container">
+        <h2>Welcome to PoonamFashion</h2>
+        <h1>Fall-Winter Collection-2022</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <button class="btn">Shop Now</button>
+       
+        </section>
+        <section class="product">
+            <div class="product-list-item">
+                <img class="img-responsive" src="men.jpg" alt="">
+                <h2 class="product heading">
+                    Men
+                </h2>
+                 <!-- <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem hic excepturi illo. Vel est dolores,
+                    libero repudiandae eaque atque aperiam, non molestias quidem hic neque accusantium temporibus
+                    sapiente saepe debitis!</p>  -->
+                <button class="btn">Shop Now</button>
+            </div>
+
+            <div class="product-list-item">
+                <img class="img-responsive" src="women.jpg" alt="">
+                <h2 class="product heading">
+                    Women
+                </h2>
+                <!-- <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem hic excepturi illo. Vel est dolores,
+                    libero repudiandae eaque atque aperiam, non molestias quidem hic neque accusantium temporibus
+                    sapiente saepe debitis!</p> -->
+                <button class="btn">Shop Now</button>
+            </div>
+
+            
+            
+            <div class="product-list-item">
+                <img class="img-responsive" src="pexels-leah-kelley-776372.jpg" alt="">
+                <h2 class="product heading">
+                    jewellery
+                </h2>
+                <!-- <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p> -->
+                <button class="btn">Shop Now</button>
+            </div>
+
+        </section>
+        <h3>Cracking Deals</h3>
+        <section class="Discount">
+            <div class="Sale">
+                <img class="img-responsive" src="17c7a23a045e30cbd8a8b7afd4c89d9b-shopping-discount-poster-design.jpg" alt="">
+                 <!-- <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem hic excepturi illo. Vel est dolores,
+                    libero repudiandae eaque atque aperiam, non molestias quidem hic neque accusantium temporibus
+                    sapiente saepe debitis!</p>  -->
+                <button class="btn">Shop Now</button>
+            </div>
+        </section>
+            <div class="team-section">
+            <h1>Our Team</h1>
+            <span class="border"></span>
+            <div class="ps">
+                <a href="#p1"><img src="pexels-athena-2043590.jpg" alt=""></a>
+                <a href="#p2"><img src="pexels-karolina-grabowska-4046718.jpg" alt=""></a>
+                <a href="#p3"><img src="pexels-victoria-borodinova-1620760.jpg" alt=""></a>
+                <!-- <a href="#p3"><img src="frame1.jpg" alt=""></a>
+                <a href="#p3"><img src="frame2.jpg" alt=""></a> -->
+            </div>
+            <div class="section" id="p1">
+                <span class="name">jay shgd</span>
+                <span class="border"></span>
+
+            </div>
+            <div class="section" id="p2">
+                <span class="name">leo dnd</span>
+                <span class="border"></span>
+            </div>
+            <div class="section" id="p3">
+                <span class="name">geeta</span>
+                <span class="border"></span>
+            </div>
+        </div>
+        <div class="footer-container">
+            <div class="social media">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+            <p class="left-text">0 2020 created by poonam All rights reserved</p>
+        </div> 
+        <div class="right-col">
+            <h1>To get updates</h1>
+            <div class="border"></div>
+            <p> Enter your email to get upadates </p>
+            <form action="" class="newsletter form">
+                <input type="text" class="txtb" placeholder="Enter your email">
+                <input type="submit" class="button" value="submit">
+
+
+            </form>
+        </div> 
+   
+
+
+        
+
+
+
+</body>
+
+</html> 
+
+
+
+-----css-------------
+*css reset*/
+body{
+    font-family:'Open Sans', sans-serif ;
+    color:white;
+    margin: 50px 50px;
+    padding: 0px;
+    background-image: url(../pexels-karolina-grabowska-4046718.jpg);
+    background-repeat: no-repeat;
+   background-size:4000px 4300px ;
+    
+
+}
+.body img{
+    height: 100%;
+    width: 100%;
+    opacity: .9;
+
+}
+.image{
+    float: right;
+}
+.Discount img{
+    width: 3000px;
+}
+.Discount button{
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+   
+    
+}
+
+.left {
+    display: inline-block;
+     /* border: 2px solid red; */
+    position: absolute;
+    left: 60px;
+    top: 20px;
+}
+.left img {
+    width: 220px;
+    
+}
+.left div {
+    line-height: 12px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-family: 'Bowlby One', cursive;
+}
+.mid {
+    display: block;
+    width: 36%;
+    margin: 100px auto;
+    font-size: 40px;
+    /* border: 2px solid green; */
+}
+.Right {
+    position: absolute;
+    right: 200px;
+    top: 130px;
+    /* display: inline-block;  */
+    
+    
+    /* border: 2px solid yellow; */
+
+}
+
+
+.navbar {
+    display: inline-block;
+
+    
+}
+
+.navbar li {
+    display: inline-block;
+    font-size: 2rem;
+    
+}
+.navbar li a {
+    color:black;
+    text-decoration: none;
+    padding: 34px 23px;
+    font-size: 40px;
+   
+
+}
+.navbar li a:hover,
+    .navbar li a.active {
+        text-decoration: underline;
+        color:black;
+       
+    }
+
+.btn {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px 9px;
+    background-color:pink;
+    color:black;
+    padding: 8px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transition:opacity .3s linear ;
+    text-align: left;
+    }
+.btn :hover{
+    opacity: .7;
+}
+.container {
+    /* border: 2px solid white; */
+    padding: 90px;
+    width: 90%;
+    border-radius: 28px;
+    font-size: 1.7rem;
+    text-align: left;
+    color: black;
+}
+.container img{
+    margin-right: 400px;
+}
+
+
+.container h1 {
+    text-align: left;
+    margin-top: 10%;
+    font-size:5rem ;
+}
+.container h2 {
+    text-align: left;
+    font-size: 4rem;
+}
+
+
+.container button {
+    display: inline-flex;
+    margin: 2px;
+    font-size: 1.6rem;
+    margin-bottom: 90px;
+}
+
+
+.product{
+    width: 80%;
+    display: flex;
+   
+    margin: 100px auto;
+    text-align: center;
+    
+}
+.product button{
+    margin: 20px;
+    
+}
+.product-list-item{
+    float: left;
+    width: 50%;
+    margin-left: 2rem;
+    margin-right: 3rem;
+    margin-bottom: 2rem;
+    background-color:pink;
+    
+}
+.product-list-item h2{
+    text-align: center;
+    justify-content: center;
+    line-height: 10px;
+}
+
+.img-responsive{
+    max-width: 100%;
+    padding: 0px;
+}
+
+
+.team-section{
+    overflow: hidden;
+    text-align: center;
+    background:pink;
+    padding: 20px;
+}
+.team-section h1{
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    color:black;
+    font-size: 40px;
+    text-align: center;
+}
+.border{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 3px;
+    background: navy;
+    margin-bottom: 40px;
+}
+.ps{
+    margin-bottom: 40px;
+}
+.ps a{
+    display: inline-block;
+    margin: 0px 30px;
+    width: 165px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.ps a img{
+    width: 100%;
+    filter: grayscale(100%);
+    transition: 0.4s;
+}
+.ps a:hover> img{
+    filter: none;
+}
+.section{
+    width: 300px;
+    margin: auto;
+    font-size: 1rem;
+    color:black;
+    text-align: justify;
+    height: 0;
+    overflow: hidden;
+}
+.section :target{
+    height: auto;
+}
+.name{
+    display: block;
+    margin-bottom: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:80px;
+}
+footer{
+    background:black;
+    /* color: black;
+    height: 400px; */
+    position: relative;
+    padding: 80px 0;
+}
+.footer-container{
+    max-width: 1300px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+}
+.social-media{
+    margin: 20px 0;
+}
+
+.social-media a{
+    color: black;
+    margin-right: 26px;
+    font-size: 22px;
+    text-decoration: none;
+    transition: .3s linear;
+}
+.social-media a:hover{
+    color: white;
+}
+.right-col h1{
+    font-size: 35px;
+    color: rgb(14, 12, 12);
+     text-align: center;
+
+}
+.right-col p{
+    color: black;
+    font-size: 35px;
+
+}
+.border{
+    width: 100px;
+    height: 4px;
+
+
+}
+.news-letter form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.txtb{
+    flex: 1;
+    padding: 18px 40px;
+    font-size: 20px;
+    color: black;
+    background: black;
+    border: none;
+    font-weight: 700;
+    outline: none;
+    border-radius: 30px;
+    min-width: 260px;
+
+}
+@media screen and (max-idth-900x) {
+    .footer-container{
+        max-width: 500px;
+    }
+    
+}
+.right-col{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+@media screen and (max-idth-900x) {
+    .btn{
+        margin: 0;
+        width: 100%;
+        margin-top: 20px;
+    }
+}
+.left-text{
+    color:black;
+}
+h3{
+    color: black;
+    font-size: 4rem;
+    margin: 20px 30px;
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    padding-bottom: 50px;
+}
+h2{
+    text-align: center;
+}
